@@ -1,11 +1,12 @@
 # House-Price-Prediction🏠🏠🏠🏠🏠🏠🏠-
+This repository contains all the files of a deployed model.
 
 ## Overview
 This project aims to predict house prices in Washington, taking into account various features such as the number of bedrooms, bathrooms, square footage, and more. With a dataset containing 18 columns of valuable information, we've employed data science and machine learning techniques to create a predictive model that can assist in estimating house prices accurately.
 
 ## Dataset
-The dataset used for this project has been taken from kaggle.
-The link for dataset : https://www.kaggle.com/datasets/shree1992/housedata
+The dataset used for this project has been taken from Kaggle.
+The link for dataset: https://www.kaggle.com/datasets/shree1992/housedata
 
 This dataset includes the following columns:
 
