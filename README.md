@@ -1,4 +1,4 @@
-# House-Price-Prediction🏠🏠🏠🏠🏠🏠🏠-
+# House-Price-Prediction🏠🏠🏠🏠🏠🏠🏠
 This repository contains all the files of a deployed model.
 
 ## Overview
